@@ -14,7 +14,7 @@ int main() {
         printf("You passed the course.\n");
     }
     
-    /*if (gra >= 90 && not <= 100) {
+    if (gra >= 90 && not <= 100) {
         printf("Your grad: A\n");
     } else if (not >= 75 && not <= 89) {
         printf("Your grade B\n");
@@ -26,7 +26,7 @@ int main() {
         printf("Your grade: F\n");
     } else {
         printf("Invalid grade!\n");
-    }*/
+    }
 
     return 0;
 }
